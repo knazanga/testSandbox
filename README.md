@@ -1,0 +1,1 @@
+Test for finding best pattern 
